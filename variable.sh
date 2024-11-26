@@ -13,6 +13,8 @@ echo 'Hello my name is $name and roll is $roll'            #because of strong qu
 
 
 var="go"
+var2="home"
 echo "why are you $varing"       # When a variable is used next to other characters, curly braces prevent the shell from misinterpreting the variable name.
-echo "why are you ${var}ing"
+echo "why are you ${var}ing" 
+echo "why are you ${var}ing ${var2}"
 
