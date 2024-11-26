@@ -13,5 +13,9 @@ to
 the
 party"                              #printing multiline string  
 
-
+echo "Recently \
+i \
+completed \
+my \
+graduation "                          #here the the output is going to be printed in a single line because of the backslash(\).
 
