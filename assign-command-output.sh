@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # pwd
 
 working_directory="pwd"          #here we tried to store the value of pwd in working_directory and print the working directory ,then it print "pwd" insted of its value.
