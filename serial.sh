@@ -11,3 +11,4 @@
 9.substring.sh
 10.defaultvalue.sh
 11.ifvariable_notset.sh
+12.Arithmatic_operation.sh
