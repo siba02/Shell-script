@@ -10,3 +10,4 @@
 8.convert_string.sh
 9.substring.sh
 10.defaultvalue.sh
+11.ifvariable_notset.sh
