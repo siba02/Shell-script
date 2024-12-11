@@ -12,3 +12,5 @@
 10.defaultvalue.sh
 11.ifvariable_notset.sh
 12.Arithmatic_operation.sh
+13.function.sh
+14.load-function.sh
