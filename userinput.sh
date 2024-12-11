@@ -23,6 +23,6 @@ echo "Hello my name is $name and my age is $age"
 read -p "Enter your name: " name
 read -p "Enter your age: " age
 read -p "Enter your secret ID:" -s myid
-echo                                                  #this echo is used to print in different line.
+echo                                     #this echo is used to print in different line.
 echo "Hello my name is $name and my age is $age \
 and secret ID is $myid "

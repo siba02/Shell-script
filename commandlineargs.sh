@@ -37,3 +37,4 @@ echo ${15}
  echo $#             #it shows the total no of arguments passed.
  echo ${@}            #it print all the command line arguments.(separate words)
  echo $*              #print values of the arguments that are passed in the program.(a complete string)
+
