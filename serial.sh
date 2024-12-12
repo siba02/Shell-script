@@ -16,3 +16,5 @@
 14.load-function.sh
 15.parameter-function.sh
 16.function-variable.sh
+17.if-command.sh
+18.if-number.sh
