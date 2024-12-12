@@ -3,7 +3,7 @@
 # pass the parameter in the function.
 
 function install (){
-    echo "install ${1} ${2}"
+    echo "install ${1} "
     echo "${FUNCNAME}"
      
 }
