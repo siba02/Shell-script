@@ -18,3 +18,4 @@
 16.function-variable.sh
 17.if-command.sh
 18.if-number.sh
+19.if-string.sh
