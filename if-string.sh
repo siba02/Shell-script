@@ -8,7 +8,6 @@ echo "please specify "
 fi
 
 name=siba 
-
 if [ $name == siba  ]
 then
   echo "hello this is me"
@@ -17,8 +16,7 @@ then
 
 
 
-  name="siba sahoo" 
-
+name="siba sahoo" 
 if [ "$name" == "siba sahoo" ]
 then
   echo "hello this is me"
@@ -27,9 +25,9 @@ then
 
 
   name="siba sahoo"
-  othername="manas" 
+  othername="manas sahoo" 
 
-if [ "$name" == "$othername" ]
+if [ "${name}" == "${othername}" ]
 then
   echo "hello this is me"
 
@@ -38,7 +36,7 @@ then
 
 
    name="siba sahoo"
-  othername="manas" 
+  othername="manas sahoo" 
 
 if [[ $name == $othername ]]
 then
